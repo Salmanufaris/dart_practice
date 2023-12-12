@@ -14,3 +14,5 @@ void main() {
     }
   }
 }
+//finding odd numbers and even numbers in simple way //
+
